@@ -1,3 +1,4 @@
+[![AGPL Licence][badge-license]](COPYING)
 # BJFU-info-push
 本程序通过python3.7编写部署
 
